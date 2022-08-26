@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">practice_challange7_season1</string>
+    <string name="shakib">  Shakib Al Hasan is a Bangladeshi cricketer and current captain in Test and T20I cricket of Bangladesh national cricket team./n
+        He is ranked no 1 all-rounder in ICC ODI Players rankings. /n
+        He employs an aggressive left-handed batting style in the middle order and controlled slow left-arm orthodox bowling.
+    </string>
+
+    <string name="mahamudullah">Mohammad Mahmudullah, also known as Riyad, is a Bangladeshi cricketer. /n
+        He has played First-class and List A cricket for Dhaka Division and has represented Bangladesh in all forms of the game./n
+        An all-rounder, he is a lower or middle-order batsman as well as an off spin bowle</string>
+    <string name="mashrafi_des">Mashrafe Bin Mortaza is a Bangladeshi international cricketer and politician/n
+        who is the former captain in all three formats of the game for the Bangladesh national cricket team</string>
+    <string name="mushfiq_des">Mushfiqur Rahim is a Bangladeshi cricketer and the former captain and vice-captain of the Bangladesh national cricket team./n
+        He is considered as the most successful captain of Bangladesh in Test cricket.</string>
+    <string name="tamim_des">Tamim Iqbal Khan, more popularly known as Tamim Iqbal, is a Bangladeshi cricketer./n
+        He is currently the captain of the Bangladesh national team in One Day Internationals./n
+        Tamim made his ODI debut in 2007 and played his first Test match the following year.</string>
+
+
+</resources>
